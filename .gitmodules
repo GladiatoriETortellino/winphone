@@ -1,0 +1,3 @@
+[submodule "pullmeup/www"]
+	path = pullmeup/www
+	url = git@github.com:GladiatoriETortellino/jsclient.git
